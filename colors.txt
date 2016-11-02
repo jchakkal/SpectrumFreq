@@ -6,5 +6,5 @@ Bell #0066A4
 Videotron #FFDE00
 Eastlink #2F0076
 Wind #F77522
-Others #CCD3E0
+Others #14F5F0
 Industry Canada #C4C4C4
