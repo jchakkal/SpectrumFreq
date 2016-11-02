@@ -1,0 +1,8 @@
+Colors
+
+Telus #89BE66
+Rogers #D80034
+Bell #0066A4
+Videotron #FFDE00
+Eastlink #2F0076
+Wind #F77522
