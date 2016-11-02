@@ -7,4 +7,4 @@ Videotron #FFDE00
 Eastlink #2F0076
 Wind #F77522
 Others #14F5F0
-Industry Canada #C4C4C4
+Industry Canada #000000
